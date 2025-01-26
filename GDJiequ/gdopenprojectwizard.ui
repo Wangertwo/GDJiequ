@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GDOpenProjectWizard</class>
+ <widget class="QWizard" name="GDOpenProjectWizard">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>500</width>
+    <height>360</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Wizard</string>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::LayoutDirection::LeftToRight</enum>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWizard QLabel#LabelTips {
+	color:red;
+}</string>
+  </property>
+  <property name="wizardStyle">
+   <enum>QWizard::WizardStyle::AeroStyle</enum>
+  </property>
+  <widget class="GDProjectSetWizardPage" name="projectSetPage"/>
+  <widget class="GDConfirmWizardPage" name="comfirmWizardPage"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>GDProjectSetWizardPage</class>
+   <extends>QWizardPage</extends>
+   <header location="global">gdprojectsetwizardpage.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>GDConfirmWizardPage</class>
+   <extends>QWizardPage</extends>
+   <header location="global">gdconfirmwizardpage.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

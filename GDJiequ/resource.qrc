@@ -1,0 +1,70 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/640 (1).png</file>
+        <file>image/640 (2).png</file>
+        <file>image/640 (3).png</file>
+        <file>image/640.png</file>
+        <file>image/cuisanniang.jpg</file>
+        <file>image/guqinghan.jpg</file>
+        <file>image/hadi.jpg</file>
+        <file>image/hutao.jpg</file>
+        <file>image/huwei.jpg</file>
+        <file>image/jianan.jpg</file>
+        <file>image/jicanghai.jpg</file>
+        <file>image/jiyingying.jpg</file>
+        <file>image/login.jpg</file>
+        <file>image/register.jpg</file>
+        <file>image/shenmiao.jpg</file>
+        <file>image/temuer.jpg</file>
+        <file>image/tianhai.jpg</file>
+        <file>image/userClient.jpg</file>
+        <file>image/userClient.png</file>
+        <file>image/weapon_background.jpg</file>
+        <file>image/weiqing.jpg</file>
+        <file>image/wuchen.jpg</file>
+        <file>image/wutianxinzhong.jpg</file>
+        <file>image/yaodaoji.jpg</file>
+        <file>image/yinziping.jpg</file>
+        <file>image/yueshan.jpg</file>
+        <file>image/yulinglong.jpg</file>
+        <file>image/zhangqiling.jpg</file>
+    </qresource>
+    <qresource prefix="/styleSheet">
+        <file>styleSheet/style.qss</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/icon.icon</file>
+        <file>icon/bulm.ico</file>
+        <file>icon/close.png</file>
+        <file>icon/closeshow.png</file>
+        <file>icon/closeshow_hover.png</file>
+        <file>icon/closeshow_press.png</file>
+        <file>icon/core.png</file>
+        <file>icon/createpro.png</file>
+        <file>icon/dir.png</file>
+        <file>icon/down.png</file>
+        <file>icon/import.png</file>
+        <file>icon/left.png</file>
+        <file>icon/music.png</file>
+        <file>icon/next.png</file>
+        <file>icon/next_hover.png</file>
+        <file>icon/next_press.png</file>
+        <file>icon/openpro.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/pause_hover.png</file>
+        <file>icon/pause_press.png</file>
+        <file>icon/pic.png</file>
+        <file>icon/play.png</file>
+        <file>icon/play_hover.png</file>
+        <file>icon/play_press.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/previous_hover.png</file>
+        <file>icon/previous_press.png</file>
+        <file>icon/right.png</file>
+        <file>icon/show.jpg</file>
+        <file>icon/slideshow.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/sample.mp3</file>
+    </qresource>
+</RCC>

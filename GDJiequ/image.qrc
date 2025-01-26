@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/register.jpg</file>
+        <file>image/login.jpg</file>
+        <file>image/userClient.png</file>
+        <file>image/640 (1).png</file>
+        <file>image/640 (2).png</file>
+        <file>image/640.png</file>
+        <file>image/640 (3).png</file>
+        <file>image/userClient.jpg</file>
+        <file>image/weapon_background.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>styleSheet/style.qss</file>
+    </qresource>
+</RCC>
